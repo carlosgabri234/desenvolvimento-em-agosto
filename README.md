@@ -1,2 +1,2 @@
-# desenvolvimento-em-agosto
+# agosto
 atividades referentes ao mês de agosto 
